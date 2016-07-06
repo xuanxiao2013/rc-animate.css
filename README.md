@@ -4,12 +4,6 @@
 使用react 和 [postcss](https://github.com/postcss/postcss) 包装 [Animate.css](https://github.com/daneden/animate.css)，避免css命名冲突，方便react使用
 
 
-## 安装
-
-```bash
-	npm install react-animate.css --save
-```
-
 ## 使用
 1. 动画名称:
   * `bounce`
