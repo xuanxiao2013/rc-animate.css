@@ -1,13 +1,19 @@
 {
   "name": "rc-animate.css",
   "version": "0.1.1",
-  "description": "react animate.css postcss",
+  "description": "react and postcss warp animate.css",
+  "keywords": [
+    "react",
+    "postcss",
+    "animate.css",
+    "babel",
+    "es6"
+  ],
   "main": "src/Animate.js",
   "scripts": {
-    "start": "webpack --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack --watch"
   },
-  "devDependencies": {
+  "dependencies": {
     "babel": "6.5.2",
     "babel-core": "6.6.5",
     "babel-eslint": "5.0.0",
@@ -31,6 +37,13 @@
     "react-dom": "0.14.7",
     "webpack": "1.12.2"
   },
+  "bugs": {
+    "url": "https://github.com/xuanxiao2013/rc-animate.css/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanxiao2013/rc-animate.css.git"
+  },
   "author": "xuanxiao",
-  "license": "ISC"
+  "license": "MIT"
 }
