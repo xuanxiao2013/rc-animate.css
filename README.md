@@ -3,14 +3,15 @@
 
 使用react 和 [postcss](https://github.com/postcss/postcss) 包装 [Animate.css](https://github.com/daneden/animate.css)，避免css命名冲突，方便react使用
 
-## 安装
+## install
  
  ```bash
  npm install rc-animate.css
  ```
 
-## 使用
-1. 动画名称:
+## Usage
+
+1. ainmate name list:
   * `bounce`
   * `flash`
   * `pulse`
@@ -87,7 +88,7 @@
   * `slideOutRight`
   * `slideOutUp`
   
-2. 例子
+2. example
 
 ```js
 import Animate from 'react-animate.css';
